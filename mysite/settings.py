@@ -25,7 +25,7 @@ SECRET_KEY = 'k%1i^9$#qpiy45r-2a482xw+l06e^)mdssf0hfhctimq^fphws'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Training.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jenniferohh7877.pythonanywhere.com']
 
 
 # Application definition
@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/New York'
+TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
 
